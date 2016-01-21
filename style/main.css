@@ -33,18 +33,27 @@ div.biotea_tooltip {
     padding: 3px;
 }
 
-.biotea_node {
+.biotea_node, .biotea_query_node{
     stroke: blue;
     fill: blue;
-    stroke-width: 1px;
-    opacity: 0.7
+    cursor: pointer;
 }
 
 .biotea_query_node {
     stroke: red;
     fill: red;
+    cursor: pointer;
+}
+
+.biotea_node circle, .biotea_query_node circle {
     stroke-width: 1px;
-    opacity: 0.7;
+    fill-opacity: 0.7;
+}
+
+.biotea_node text, .biotea_query_node text {
+    stroke-width: 0px;
+    pointer-events: none;
+    font: 8px sans-serif;
 }
 
 .biotea_link {
@@ -52,4 +61,3 @@ div.biotea_tooltip {
     stroke-opacity: .6;
     stroke-width: 1
 }
-
