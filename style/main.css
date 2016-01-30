@@ -53,7 +53,7 @@ div.biotea_tooltip {
 .biotea_node text, .biotea_query_node text {
     stroke-width: 0px;
     pointer-events: none;
-    font: 8px sans-serif;
+    font: 10px sans-serif;
 }
 
 .biotea_link {
