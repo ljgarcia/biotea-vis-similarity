@@ -10,6 +10,7 @@ var outputFile = "SimilarityViewer";
 
 // packages
 var gulp   = require('gulp');
+var concat = require('gulp-concat');
 
 // browser builds
 var browserify = require('browserify');
@@ -132,8 +133,9 @@ gulp.task('init', ['clean'], function() {
 gulp.task('copy-resources', ['init'], function() {
         gulp.src("./font/*.*")
                 .pipe(gulp.dest(buildDir));
-        return gulp.src("./style/*.css")
+        return gulp.src(["./style/*.css", "./node_modules/biotea-vis-tooltip/style/bioteaTooltip.css"])
                 .pipe(minifyCss({compatibility: 'ie8'}))
+                .pipe(concat('bioteaSimilarity.css'))
                 .pipe(gulp.dest(buildDir));
 });
 

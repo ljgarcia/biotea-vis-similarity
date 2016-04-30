@@ -4,35 +4,6 @@ text.biotea-topic-label, text.biotea-legend-label {
     fill: black;
 }
 
-div.biotea_tooltip {
-    z-index: 50000;
-    position: absolute;
-    text-align: left;
-    min-width: 100px;
-    padding: 5px;
-    border: 0px;
-    border-radius: 2px;
-    pointer-events: none;
-    background: white;
-}
-.biotea_tooltip_table {
-    border: 1px solid grey;
-    font-weight: lighter;
-    font-size: .8em;
-    font-family: Calibri, sans-serif;
-}
-.biotea_tooltip_header {
-    background: grey;
-    color: white;
-    padding: 3px;
-}
-
-.biotea_tooltip_body {
-    background: lightgrey;
-    color: black;
-    padding: 3px;
-}
-
 .biotea_node, .biotea_query_node{
     stroke: blue;
     fill: blue;
