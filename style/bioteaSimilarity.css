@@ -5,15 +5,17 @@ text.biotea-topic-label, text.biotea-legend-label {
 }
 
 .biotea_node, .biotea_query_node{
+    cursor: pointer;
+}
+
+.biotea_node {
     stroke: blue;
     fill: blue;
-    cursor: pointer;
 }
 
 .biotea_query_node {
     stroke: red;
     fill: red;
-    cursor: pointer;
 }
 
 .biotea_node circle, .biotea_query_node circle {
