@@ -15,7 +15,7 @@ var yourDiv = document.getElementById('mocha');
 // requires your main app (specified in index.js)
 var viewer = require('../..');
 
-describe('biotea-vis-annotation module', function(){
+describe('biotea-vis-similarity module', function(){
   describe('#init()', function(){
     it('should fill the textBox', function(){
       var opts = {el: yourDiv, text: 'biojs'};
