@@ -1,0 +1,767 @@
+{
+  "@graph" : [ {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_028ab04f07974d1cd4f5b1893c4b34a7",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0851285",
+    "biotea:idf" : 5.0,
+    "tf" : "8"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_0336ec687d6a87ed72c6e66c8b61f6e6",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0185115",
+    "biotea:idf" : 9.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_05ce7e1868b318e0130d06ec175d618d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0237753",
+    "biotea:idf" : 8.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_0976711eb0033e824407e68662dbbda5",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C6171406",
+    "biotea:idf" : 10.0,
+    "tf" : "15"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1015f43d852ba6287b55f431af5844f8",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1514721",
+    "biotea:idf" : 9.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_14a02fa304dfb423331da38e12853260",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5578580",
+    "biotea:idf" : 4.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_14bc794386c3aa348cb42d3ae07c351a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0017337",
+    "biotea:idf" : 4.0,
+    "tf" : "111"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_14fb7ff565241311f230de7e9aafb27a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0370003",
+    "biotea:idf" : 7.0,
+    "tf" : "14"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_16a8b22cbab5df74ce7067eadeda4878",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2698674",
+    "biotea:idf" : 9.0,
+    "tf" : "6"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_18213c8a98e7d1c7ea5a12f833aeb70e",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2232707",
+    "biotea:idf" : 19.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1c201b01267bc420797d8b5cd5a130f2",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0028953",
+    "biotea:idf" : 10.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1c5d28da023516837a0ed6974d2cbfe7",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0871420",
+    "biotea:idf" : 12.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1e3478332c1ca31d43b7115b48da8128",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2986815",
+    "biotea:idf" : 6.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_210aa4b9b099ff8982649160eaa85c9e",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0681814",
+    "biotea:idf" : 7.0,
+    "tf" : "17"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_26bee3d9e9fb4337ecbf226528f2564d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0237886",
+    "biotea:idf" : 6.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_2b20e522b3051f8aa4b57ca2b06ef7ec",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0600597",
+    "biotea:idf" : 18.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_2bd8997c7df7ff24f27d71d6c93d462c",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0020202",
+    "biotea:idf" : 10.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_31024f07d14ab67d9d822f8f3f5feaca",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205174",
+    "biotea:idf" : 9.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_38e9acd7e598c1db73b17e18616f162e",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0445542",
+    "biotea:idf" : 6.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_3b05d58f5df96b00c081cca83667de3c",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0006353",
+    "biotea:idf" : 10.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4419694711ffa1bf0f891573173f3f1a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5518430",
+    "biotea:idf" : 5.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4464bb2d22f55d6ae3cc5bf437b815cb",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1548762",
+    "biotea:idf" : 10.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_44939ea5c8cc9e44a7349c9b4cbcc66d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2003888",
+    "biotea:idf" : 5.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4615865602f2f27790f97e75af0adc9d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1704458",
+    "biotea:idf" : 2.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_48e6477a4d7b1bddb24821a1faf16eb4",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1705241",
+    "biotea:idf" : 7.0,
+    "tf" : "10"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_49823eef0b2880304b64f1fa2a3d3664",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5887808",
+    "biotea:idf" : 9.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_49e5d3e5328dedad0d3288e8f9ee243d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2945746",
+    "biotea:idf" : 6.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4c31e6675d63fcdb63c2854b48f08007",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0870071",
+    "biotea:idf" : 6.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4c567737d120c25ecb4958172576e1ce",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1709016",
+    "biotea:idf" : 12.0,
+    "tf" : "31"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4ce3d4a7332f5364f668cc570e991838",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0026339",
+    "biotea:idf" : 9.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4edd74a7db0b088f79f5b793a9b26d79",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1522485",
+    "biotea:idf" : 6.0,
+    "tf" : "6"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4f103b4a39c3a35b59d4be2162db84e1",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0034606",
+    "biotea:idf" : 16.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_522a39027413c6defcb4cbc78ded8e63",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5155010",
+    "biotea:idf" : 6.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_548540eec3f23ce68fbc8f339470a90a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1955272",
+    "biotea:idf" : 12.0,
+    "tf" : "4"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_59311a204acf879220cf171cfd557fd4",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C3146294",
+    "biotea:idf" : 4.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_5b5ac1dcfef7db468a1932d404222961",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1533734",
+    "biotea:idf" : 6.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_5c7ac948c82a259f5235caaee98a13f1",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205126",
+    "biotea:idf" : 5.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_5ccbe00e8ff0271f1a8b50caa56f10d0",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0038215",
+    "biotea:idf" : 7.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_60503c51d915dc2435dac59b2025abc5",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0679199",
+    "biotea:idf" : 5.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_65115a0e659da94cde3968e413c66f62",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1519941",
+    "biotea:idf" : 7.0,
+    "tf" : "7"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_67339e1067162edf8f84dc5b75da8e13",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0687744",
+    "biotea:idf" : 4.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_6a1af14745d816ed390b427fe4fc6483",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0441648",
+    "biotea:idf" : 6.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_6e337afbe85dfc52e82c2639641814ca",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2825142",
+    "biotea:idf" : 5.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_6fa0beade8b21e2d3bac43b51ffd0213",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0185125",
+    "biotea:idf" : 7.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7193779167443655613eb3045d4be101",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C9020484",
+    "biotea:idf" : 11.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_75b7a56116ea0c2ff3f5b66e38e2d4e2",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0235146",
+    "biotea:idf" : 7.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_75bae8016b746dc92edfab4a18cf695c",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C6822100",
+    "biotea:idf" : 3.0,
+    "tf" : "4"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_75d8642f94cade9a1186f15e9e72cde3",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1705429",
+    "biotea:idf" : 4.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7734a5ff318c70be34981f4160968514",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1554105",
+    "biotea:idf" : 16.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_77add97fd0ff75bfede45b5c6a1ce226",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205250",
+    "biotea:idf" : 4.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7b177f8bca04e072c557bed85c9255ce",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1552516",
+    "biotea:idf" : 5.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7d8865878c93f9fc3d57cbafd125f639",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1515021",
+    "biotea:idf" : 6.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7e83003f4f9ae2f63ed42a54bc5fe899",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1522053",
+    "biotea:idf" : 17.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_80eb8fcb0b42bd0e04133f9bc551358f",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0441833",
+    "biotea:idf" : 3.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_82fd24d8ed155573451778632fa3aef1",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1882115",
+    "biotea:idf" : 8.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_882f4ca94fea580f86a9bc2ebf153c4f",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0699794",
+    "biotea:idf" : 4.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_88315cf4914a89bb584d2351900a0227",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1947906",
+    "biotea:idf" : 6.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_88c737b26e994166248db5adc6912575",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1707455",
+    "biotea:idf" : 5.0,
+    "tf" : "4"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_89dc754a5fc05bafb6853c16d6f1c628",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0444667",
+    "biotea:idf" : 2.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8a4e7884fc6f752aa45cf8a5fba9175f",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0600596",
+    "biotea:idf" : 13.0,
+    "tf" : "7"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8d7ae0cf42b1c74486a44f7b1580fb6d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C6320301",
+    "biotea:idf" : 5.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8d86381fabf2891fb296987e45c69c4c",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5640846",
+    "biotea:idf" : 11.0,
+    "tf" : "4"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8e10e8922f20ea09aaeaee98dd681769",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1561557",
+    "biotea:idf" : 6.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8ee3d7756ed38ef16a96fbc18e4506fe",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2348152",
+    "biotea:idf" : 10.0,
+    "tf" : "23"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8f057f7a14d9e68304486343a0589bf9",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0700314",
+    "biotea:idf" : 9.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8f33a75a190281025cf38caf4bee588d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1439852",
+    "biotea:idf" : 8.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_966c38f62e6802c9c3838f00c9181520",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205134",
+    "biotea:idf" : 8.0,
+    "tf" : "8"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_99e5734e6888c99a3c59743e74632342",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0522510",
+    "biotea:idf" : 6.0,
+    "tf" : "10"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9b74465e54eb5831c52b837c99e3a390",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0887808",
+    "biotea:idf" : 18.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9cac5f91c3e89c4d32ba94314a276d32",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0039421",
+    "biotea:idf" : 6.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9d48aad2437c0f3f8b49df1812dc4241",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0243161",
+    "biotea:idf" : 6.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9f5ee31c27420126cb632105b47279d9",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0034760",
+    "biotea:idf" : 11.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a00524bfa05c6e411eab5e57e2e95167",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0035696",
+    "biotea:idf" : 14.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a01d3c06f6c1b8a34668b2bb2ad4bafc",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0087111",
+    "biotea:idf" : 10.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a073a7e7c67839b5a72f9e12813ef5c7",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0036572",
+    "biotea:idf" : 9.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a2269463e521cb0900c4e7586fe37af6",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2350001",
+    "biotea:idf" : 9.0,
+    "tf" : "4"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a827a90aed9f7df6e9af2b0fbda69938",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0025663",
+    "biotea:idf" : 4.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ac3a46dd2bb606ddecf5f2642a4d5ad6",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5085801",
+    "biotea:idf" : 7.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b13e20487d0b676fa77d754ff59b83c0",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1441506",
+    "biotea:idf" : 7.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b4b3edc7be36ad92e330910523e96653",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5073433",
+    "biotea:idf" : 6.0,
+    "tf" : "9"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b8900eb2cd0bf3daef59ddb42f71da37",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0582523",
+    "biotea:idf" : 9.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b9a659557f9a3e672e5b5535e2e53d20",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0700325",
+    "biotea:idf" : 11.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ba6f62daa1fe35b2ce047876d5d1b3f6",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205132",
+    "biotea:idf" : 6.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_baaee92d5eb4f1fb469b24060fd4ae23",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1707520",
+    "biotea:idf" : 7.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_bbcc0238a719bb04829c760d3327c73a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1705213",
+    "biotea:idf" : 8.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c3bd3fd3a629ef9ff3e752fda2af18d1",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1704788",
+    "biotea:idf" : 4.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c4aff01a72d492f51606029876a49ba7",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2349200",
+    "biotea:idf" : 7.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c4fd9ccbdeac52206ba3448b4fd7106a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1300517",
+    "biotea:idf" : 22.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c504297319aaa6266f784aeb37acdc0d",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0184661",
+    "biotea:idf" : 10.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c7696825db4122af15045b50e0ecb85c",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1449575",
+    "biotea:idf" : 15.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c8c9d18df74831f88592499bc5e35942",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205173",
+    "biotea:idf" : 6.0,
+    "tf" : "5"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c949c7f1f313f4eb877cde62f9f4cd56",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0005532",
+    "biotea:idf" : 8.0,
+    "tf" : "6"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_cbd9d89a7bc18d91ee78af1be86ac799",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1264641",
+    "biotea:idf" : 11.0,
+    "tf" : "6"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_cc169d817625a24d01c76a5de775d051",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0242821",
+    "biotea:idf" : 3.0,
+    "tf" : "7"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ce415898e2637b66fee328da70b2c7a0",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205341",
+    "biotea:idf" : 6.0,
+    "tf" : "12"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d01f41d44b1fced54584e9f9b3835f6c",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0028263",
+    "biotea:idf" : 8.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d0c3c74627716eb13ed43424e2464e1a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0439801",
+    "biotea:idf" : 4.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d14a092205db25e008e3968ab3e215db",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1416378",
+    "biotea:idf" : 16.0,
+    "tf" : "6"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d15bc0ec9374b00405a8b0ca97c6cac0",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C9004736",
+    "biotea:idf" : 10.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d57c8aa7484a76a48d635b0a76de1958",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0871472",
+    "biotea:idf" : 7.0,
+    "tf" : "6"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d8bbc320a8c90526125713f01c8a1cdc",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C5337644",
+    "biotea:idf" : 5.0,
+    "tf" : "3"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_dd0e14094964365312b6517b2a2597ed",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0013343",
+    "biotea:idf" : 10.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_df58ba6d9723a08bc2b982f0144a907a",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0150098",
+    "biotea:idf" : 7.0,
+    "tf" : "14"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e0e5223232c0886aba0450894a991d16",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2347609",
+    "biotea:idf" : 9.0,
+    "tf" : "7"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e106237a72db4cf2590b71825d1ab1fb",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0017262",
+    "biotea:idf" : 6.0,
+    "tf" : "53"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e689a8ca30d3df12645095888a574ed2",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0439232",
+    "biotea:idf" : 7.0,
+    "tf" : "18"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e7d714d5bce93f2d0ce75c0c95aeb355",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C2827666",
+    "biotea:idf" : 7.0,
+    "tf" : "26"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e9eb03bdf04eb83d64a7d447b1ecfebd",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1710439",
+    "biotea:idf" : 12.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ea70eb6c4543cf88fe0c5b4d8042fecc",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0021212",
+    "biotea:idf" : 6.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_eaa91386fc53ae9d4ca3883b40dcb2b2",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0549193",
+    "biotea:idf" : 9.0,
+    "tf" : "4"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f0210f51523d94905342db60a3e630b4",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0596723",
+    "biotea:idf" : 4.0,
+    "tf" : "4"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f1a847f27ff1a333ef3aa5797ddf9346",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1522602",
+    "biotea:idf" : 6.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f641c70215d2d73f1ca62309f6877c56",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205344",
+    "biotea:idf" : 5.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f84986b1bd06b45302ffdf2a59385bef",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C1707391",
+    "biotea:idf" : 4.0,
+    "tf" : "9"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f9afef4779e4293222933e8528ec20b0",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0205460",
+    "biotea:idf" : 7.0,
+    "tf" : "2"
+  }, {
+    "@id" : "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_fda1daded905f34db54af73d96dd4640",
+    "@type" : "biotea:SemanticAnnotation",
+    "references" : "umls:C0200765",
+    "biotea:idf" : 8.0,
+    "tf" : "1"
+  }, {
+    "@id" : "http://biotea.ws/biolink/pubmed_resource/Biolink_101d0938710e47650b59507a1ba62047",
+    "@type" : "biotea:Biolink",
+    "createdBy" : "http://biotea.ws/agent/rdf4pmc_serializer/",
+    "createdOn" : "2015-12-15T18:04:58.174Z",
+    "annotator" : "http://krono.act.uji.es/annotations/",
+    "link" : [ "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7d8865878c93f9fc3d57cbafd125f639", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_48e6477a4d7b1bddb24821a1faf16eb4", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_966c38f62e6802c9c3838f00c9181520", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b4b3edc7be36ad92e330910523e96653", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_80eb8fcb0b42bd0e04133f9bc551358f", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_5b5ac1dcfef7db468a1932d404222961", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1015f43d852ba6287b55f431af5844f8", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_5ccbe00e8ff0271f1a8b50caa56f10d0", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_88315cf4914a89bb584d2351900a0227", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_548540eec3f23ce68fbc8f339470a90a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9cac5f91c3e89c4d32ba94314a276d32", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_49823eef0b2880304b64f1fa2a3d3664", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_14fb7ff565241311f230de7e9aafb27a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8d86381fabf2891fb296987e45c69c4c", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8e10e8922f20ea09aaeaee98dd681769", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b13e20487d0b676fa77d754ff59b83c0", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9f5ee31c27420126cb632105b47279d9", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_eaa91386fc53ae9d4ca3883b40dcb2b2", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_baaee92d5eb4f1fb469b24060fd4ae23", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a073a7e7c67839b5a72f9e12813ef5c7", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_89dc754a5fc05bafb6853c16d6f1c628", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c4aff01a72d492f51606029876a49ba7", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_882f4ca94fea580f86a9bc2ebf153c4f", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b9a659557f9a3e672e5b5535e2e53d20", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_82fd24d8ed155573451778632fa3aef1", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e7d714d5bce93f2d0ce75c0c95aeb355", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e106237a72db4cf2590b71825d1ab1fb", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_77add97fd0ff75bfede45b5c6a1ce226", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f1a847f27ff1a333ef3aa5797ddf9346", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_028ab04f07974d1cd4f5b1893c4b34a7", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ea70eb6c4543cf88fe0c5b4d8042fecc", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1c5d28da023516837a0ed6974d2cbfe7", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_3b05d58f5df96b00c081cca83667de3c", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8a4e7884fc6f752aa45cf8a5fba9175f", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f0210f51523d94905342db60a3e630b4", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_16a8b22cbab5df74ce7067eadeda4878", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d01f41d44b1fced54584e9f9b3835f6c", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_38e9acd7e598c1db73b17e18616f162e", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_210aa4b9b099ff8982649160eaa85c9e", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_6fa0beade8b21e2d3bac43b51ffd0213", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a00524bfa05c6e411eab5e57e2e95167", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d57c8aa7484a76a48d635b0a76de1958", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_14a02fa304dfb423331da38e12853260", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_59311a204acf879220cf171cfd557fd4", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8f057f7a14d9e68304486343a0589bf9", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7e83003f4f9ae2f63ed42a54bc5fe899", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_0976711eb0033e824407e68662dbbda5", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_99e5734e6888c99a3c59743e74632342", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9d48aad2437c0f3f8b49df1812dc4241", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_5c7ac948c82a259f5235caaee98a13f1", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_6e337afbe85dfc52e82c2639641814ca", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_9b74465e54eb5831c52b837c99e3a390", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1c201b01267bc420797d8b5cd5a130f2", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_b8900eb2cd0bf3daef59ddb42f71da37", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_75d8642f94cade9a1186f15e9e72cde3", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_26bee3d9e9fb4337ecbf226528f2564d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f9afef4779e4293222933e8528ec20b0", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_88c737b26e994166248db5adc6912575", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4615865602f2f27790f97e75af0adc9d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f641c70215d2d73f1ca62309f6877c56", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_f84986b1bd06b45302ffdf2a59385bef", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_dd0e14094964365312b6517b2a2597ed", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c949c7f1f313f4eb877cde62f9f4cd56", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4c567737d120c25ecb4958172576e1ce", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_fda1daded905f34db54af73d96dd4640", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a01d3c06f6c1b8a34668b2bb2ad4bafc", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c7696825db4122af15045b50e0ecb85c", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ce415898e2637b66fee328da70b2c7a0", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_cc169d817625a24d01c76a5de775d051", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4edd74a7db0b088f79f5b793a9b26d79", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d15bc0ec9374b00405a8b0ca97c6cac0", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e9eb03bdf04eb83d64a7d447b1ecfebd", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d8bbc320a8c90526125713f01c8a1cdc", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4464bb2d22f55d6ae3cc5bf437b815cb", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7b177f8bca04e072c557bed85c9255ce", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4c31e6675d63fcdb63c2854b48f08007", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_05ce7e1868b318e0130d06ec175d618d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_df58ba6d9723a08bc2b982f0144a907a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_1e3478332c1ca31d43b7115b48da8128", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_6a1af14745d816ed390b427fe4fc6483", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c4fd9ccbdeac52206ba3448b4fd7106a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_18213c8a98e7d1c7ea5a12f833aeb70e", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_14bc794386c3aa348cb42d3ae07c351a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_cbd9d89a7bc18d91ee78af1be86ac799", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7193779167443655613eb3045d4be101", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a827a90aed9f7df6e9af2b0fbda69938", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_31024f07d14ab67d9d822f8f3f5feaca", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4419694711ffa1bf0f891573173f3f1a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4f103b4a39c3a35b59d4be2162db84e1", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c504297319aaa6266f784aeb37acdc0d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_bbcc0238a719bb04829c760d3327c73a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d0c3c74627716eb13ed43424e2464e1a", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c8c9d18df74831f88592499bc5e35942", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_2bd8997c7df7ff24f27d71d6c93d462c", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e0e5223232c0886aba0450894a991d16", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_522a39027413c6defcb4cbc78ded8e63", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_7734a5ff318c70be34981f4160968514", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_44939ea5c8cc9e44a7349c9b4cbcc66d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_75bae8016b746dc92edfab4a18cf695c", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_67339e1067162edf8f84dc5b75da8e13", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ba6f62daa1fe35b2ce047876d5d1b3f6", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_4ce3d4a7332f5364f668cc570e991838", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_75b7a56116ea0c2ff3f5b66e38e2d4e2", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_d14a092205db25e008e3968ab3e215db", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_2b20e522b3051f8aa4b57ca2b06ef7ec", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8f33a75a190281025cf38caf4bee588d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_60503c51d915dc2435dac59b2025abc5", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_49e5d3e5328dedad0d3288e8f9ee243d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_e689a8ca30d3df12645095888a574ed2", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_a2269463e521cb0900c4e7586fe37af6", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_65115a0e659da94cde3968e413c66f62", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8d7ae0cf42b1c74486a44f7b1580fb6d", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_ac3a46dd2bb606ddecf5f2642a4d5ad6", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_c3bd3fd3a629ef9ff3e752fda2af18d1", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_0336ec687d6a87ed72c6e66c8b61f6e6", "http://biotea.ws/annotatedConcept/pubmed_resource/AnnotatedConcept_8ee3d7756ed38ef16a96fbc18e4506fe" ],
+    "onQueryDocument" : "http://biotea.ws/pubmeddoc/pubmed/117238",
+    "onRelatedDocument" : "http://biotea.ws/pubmeddoc/pubmed/126873",
+    "biotea:score" : 0.18981560688933138
+  } ],
+  "@context" : {
+    "references" : {
+      "@id" : "http://purl.org/dc/terms/references",
+      "@type" : "@id"
+    },
+    "idf" : {
+      "@id" : "http://www.biotea.ws/ontology/ao_biotea.owl#idf",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "tf" : {
+      "@id" : "http://www.biotea.ws/ontology/ao_biotea.owl#tf",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "link" : {
+      "@id" : "http://www.biotea.ws/ontology/ao_biotea.owl#link",
+      "@type" : "@id"
+    },
+    "createdOn" : {
+      "@id" : "http://purl.org/pav/createdOn",
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "createdBy" : {
+      "@id" : "http://purl.org/pav/createdBy",
+      "@type" : "@id"
+    },
+    "annotator" : {
+      "@id" : "http://www.biotea.ws/ontology/ao_biotea.owl#annotator",
+      "@type" : "@id"
+    },
+    "onRelatedDocument" : {
+      "@id" : "http://www.biotea.ws/ontology/ao_biotea.owl#onRelatedDocument",
+      "@type" : "@id"
+    },
+    "score" : {
+      "@id" : "http://www.biotea.ws/ontology/ao_biotea.owl#score",
+      "@type" : "http://www.w3.org/2001/XMLSchema#double"
+    },
+    "onQueryDocument" : {
+      "@id" : "http://www.biotea.ws/ontology/ao_biotea.owl#onQueryDocument",
+      "@type" : "@id"
+    },
+    "aof" : "http://purl.org/ao/foaf/",
+    "prov" : "http://www.w3.org/ns/prov#",
+    "aot" : "http://purl.org/ao/types/",
+    "foaf" : "http://xmlns.com/foaf/0.1/",
+    "xsp" : "http://www.owl-ontologies.com/2005/08/07/xsp.owl#",
+    "aos" : "http://purl.org/ao/selectors/",
+    "void" : "http://rdfs.org/ns/void#",
+    "aoa" : "http://purl.org/ao/annotea/",
+    "umls" : "http://bioportal.bioontology.org/ontologies/umls/",
+    "dcterms" : "http://purl.org/dc/terms/",
+    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+    "biotea" : "http://www.biotea.ws/ontology/ao_biotea.owl#",
+    "pav" : "http://purl.org/pav/",
+    "ao" : "http://purl.org/ao/core/",
+    "owl" : "http://www.w3.org/2002/07/owl#",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  }
+}
